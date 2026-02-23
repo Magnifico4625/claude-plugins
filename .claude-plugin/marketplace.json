@@ -1,0 +1,33 @@
+{
+  "name": "magnifico-tools",
+  "owner": {
+    "name": "Magnifico4625",
+    "email": "vozol81@mail.ru"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Magnifico4625 — memory, productivity, AI-powered tools.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "locus",
+      "source": {
+        "source": "github",
+        "repo": "Magnifico4625/locus",
+        "ref": "v0.1.0"
+      },
+      "description": "Persistent project-aware memory for Claude Code. Structural map, decisions, session history — zero native deps.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Magnifico4625",
+        "email": "vozol81@mail.ru"
+      },
+      "homepage": "https://github.com/Magnifico4625/locus",
+      "repository": "https://github.com/Magnifico4625/locus",
+      "license": "MIT",
+      "keywords": ["memory", "mcp", "codebase", "context", "ai-agent"],
+      "category": "productivity",
+      "tags": ["memory", "context", "project-awareness", "mcp-server"]
+    }
+  ]
+}
