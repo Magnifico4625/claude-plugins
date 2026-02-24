@@ -14,10 +14,10 @@
       "source": {
         "source": "github",
         "repo": "Magnifico4625/locus",
-        "ref": "v0.1.0"
+        "ref": "v0.2.0"
       },
       "description": "Persistent project-aware memory for Claude Code. Structural map, decisions, session history — zero native deps.",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "author": {
         "name": "Magnifico4625",
         "email": "vozol81@mail.ru"
