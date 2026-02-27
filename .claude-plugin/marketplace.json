@@ -14,10 +14,10 @@
       "source": {
         "source": "github",
         "repo": "Magnifico4625/locus",
-        "ref": "v0.2.0"
+        "ref": "v3.0.0"
       },
-      "description": "Persistent project-aware memory for Claude Code. Structural map, decisions, session history — zero native deps.",
-      "version": "0.2.0",
+      "description": "Persistent memory server for AI coding tools. Structural map, semantic decisions, conversation history — works with any MCP-compatible client.",
+      "version": "3.0.0",
       "author": {
         "name": "Magnifico4625",
         "email": "vozol81@mail.ru"
@@ -25,9 +25,9 @@
       "homepage": "https://github.com/Magnifico4625/locus",
       "repository": "https://github.com/Magnifico4625/locus",
       "license": "MIT",
-      "keywords": ["memory", "mcp", "codebase", "context", "ai-agent"],
+      "keywords": ["memory", "mcp", "codebase", "context", "ai-agent", "conversation"],
       "category": "productivity",
-      "tags": ["memory", "context", "project-awareness", "mcp-server"]
+      "tags": ["memory", "context", "project-awareness", "mcp-server", "conversation-history"]
     }
   ]
 }
