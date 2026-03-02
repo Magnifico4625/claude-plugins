@@ -12,7 +12,7 @@ A curated collection of Claude Code plugins by [Magnifico4625](https://github.co
 
 | Plugin | Version | Description |
 |--------|---------|-------------|
-| [locus](https://github.com/Magnifico4625/locus) | 0.1.0 | Persistent project-aware memory — structural map, decisions, session history |
+| [locus](https://github.com/Magnifico4625/locus) | 3.0.2 | Persistent project-aware memory — structural map, decisions, conversation history. Works with any MCP-compatible client. |
 
 ## Install a Plugin
 
