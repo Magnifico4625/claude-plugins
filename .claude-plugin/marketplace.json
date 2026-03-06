@@ -14,10 +14,10 @@
       "source": {
         "source": "github",
         "repo": "Magnifico4625/locus",
-        "ref": "v3.0.4"
+        "ref": "v3.0.5"
       },
       "description": "Persistent memory server for AI coding tools. Structural map, semantic decisions, conversation history — works with any MCP-compatible client.",
-      "version": "3.0.4",
+      "version": "3.0.5",
       "author": {
         "name": "Magnifico4625",
         "email": "vozol81@mail.ru"
