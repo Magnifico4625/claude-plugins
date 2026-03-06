@@ -12,7 +12,7 @@ A curated collection of Claude Code plugins by [Magnifico4625](https://github.co
 
 | Plugin | Version | Description |
 |--------|---------|-------------|
-| [locus](https://github.com/Magnifico4625/locus) | 3.0.5 | Persistent project-aware memory — structural map, decisions, conversation history. Self-healing FTS5 indexes, 12-point diagnostics. Works with any MCP-compatible client. |
+| [locus](https://github.com/Magnifico4625/locus) | 3.1.0 | Persistent project-aware memory for Claude Code and Codex CLI. Client-aware storage, structural map, decisions, conversation history. 863 tests, 12 MCP tools. |
 
 ## Install a Plugin
 
