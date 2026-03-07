@@ -14,10 +14,10 @@
       "source": {
         "source": "github",
         "repo": "Magnifico4625/locus",
-        "ref": "v3.1.0"
+        "ref": "v3.1.1"
       },
       "description": "Persistent memory for AI coding tools. Works with Claude Code and Codex CLI. Structural map, semantic decisions, conversation history — client-aware storage, 863 tests.",
-      "version": "3.1.0",
+      "version": "3.1.1",
       "author": {
         "name": "Magnifico4625",
         "email": "vozol81@mail.ru"
